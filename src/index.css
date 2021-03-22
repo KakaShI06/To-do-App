@@ -1,0 +1,20 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(23, 16, 121)
+}
+
+button{
+    padding: 2px;
+    margin: 3px;
+    border: 0.5px solid black;
+}
+
+label{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(49, 19, 97);
+}

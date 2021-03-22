@@ -1,0 +1,55 @@
+
+h1{
+    text-align: center;
+    margin-bottom: 25px;
+    color: rgb(168, 135, 135);
+    text-decoration: underline;
+    margin-top: 20px; 
+}
+
+
+.App{
+    background-color: rgb(52, 100, 189);
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+}
+
+.App input {
+    outline: none;
+    background-color: rgb(228, 195, 200);
+    border: 0.5px solid red;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    padding: 0 20px;
+    margin: 15px 10px 8px 25px;
+}
+
+form button {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(148, 218, 160);
+    border-radius: 5px;
+}
+
+.list-of-items{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between
+
+}
+
+.list-of-items button{
+    height: 35px;
+    background-color: rgb(58, 192, 76);
+    min-width: 30px;
+    border: 0.5px solid green;
+    border-radius: 5px;
+}
+
+button {
+    cursor: pointer;
+    font-weight: bold;
+    outline: none;
+}
